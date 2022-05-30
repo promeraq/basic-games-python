@@ -9,4 +9,4 @@ Collection of games created while studying python
 [5.- Minesweeper](games/minesweeper.py) <br>
 [6.- Tic Tac Toe](games/tictactoe.py) <br>
 [7.- Connect Four](games/connect_four.py) <br>
-[8.- Sudoku](ames/sudoku.py) <br>
+[8.- Sudoku](games/sudoku.py) <br>
