@@ -9,11 +9,25 @@ Collection of notes, games and programs created while studying python
 [5.- Dictionaries]() <br>
 [6.- Functions]() <br>
 [7.- User input]() <br>
-[8.- Files]() <br>
+[8.- Working with files]() <br>
 [9.- Exceptions]() <br>
 [10.- Classes]() <br>
-[11.- Regexes]() <br>
+[11.- Regular expressions]() <br>
 [12.- Testing code]() <br>
+
+
+## Games
+[1.- Guess Number]() <br>
+[2.- Madlibs]() <br>
+[3.- Hangman]() <br>
+[4.- Rock paper scissors]() <br>
+[5.- Minesweeper]() <br>
+[6.- Tic Tac Toe]() <br>
+[7.- AI Tic Tac Toe]() <br>
+[8.- Connect Four]() <br>
+[9.- Sudoku]() <br>
+
+
 
 
 ## Sorting Algorithms
