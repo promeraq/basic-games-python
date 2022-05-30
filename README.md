@@ -8,5 +8,5 @@ Collection of games created while studying python
 [4.- Rock Paper Scissors](games/rps.py) <br>
 [5.- Minesweeper](games/minesweeper.py) <br>
 [6.- Tic Tac Toe](games/tictactoe.py) <br>
-[7.- Connect Four]() <br>
-[8.- Sudoku]() <br>
+[7.- Connect Four](games/connect_four.py) <br>
+[8.- Sudoku](ames/sudoku.py) <br>
