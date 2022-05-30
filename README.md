@@ -1,4 +1,4 @@
-# intro-to-python
+# Basic and introductory info to python
 Lectures and introduction info python language
 
 
