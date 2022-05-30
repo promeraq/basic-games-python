@@ -3,17 +3,17 @@ Collection of notes, games and programs created while studying python
 
 ## Python Basics
 [1.- Variables]() <br>
-[2.- Lists]()
-[3.- If Statements]()
-[4.- While Loops]()
-[5.- Dictionaries]()
-[6.- Functions]()
-[7.- User input]()
-[8.- Files]()
-[9.- Exceptions]()
-[10.- Classes]()
-[11.- Regexes]()
-[12.- Testing code]()
+[2.- Lists]() <br>
+[3.- If Statements]() <br>
+[4.- While Loops]() <br>
+[5.- Dictionaries]() <br>
+[6.- Functions]() <br>
+[7.- User input]() <br>
+[8.- Files]() <br>
+[9.- Exceptions]() <br>
+[10.- Classes]() <br>
+[11.- Regexes]() <br>
+[12.- Testing code]() <br>
 
 
 ## Sorting Algorithms
