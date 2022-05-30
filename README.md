@@ -4,7 +4,7 @@ Collection of games created while studying python
 ## Games
 [1.- Guess Number](games/guess_number.py) <br>
 [2.- Madlibs](games/madlibs/) <br>
-[3.- Hangman]() <br>
+[3.- Hangman](games/hangman/) <br>
 [4.- Rock Paper Scissors]() <br>
 [5.- Minesweeper]() <br>
 [6.- Tic Tac Toe]() <br>
