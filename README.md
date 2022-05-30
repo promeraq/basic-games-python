@@ -2,7 +2,7 @@
 Collection of notes, games and programs created while studying python
 
 ## Python Basics
-[1.- Variables]()
+[1.- Variables]() <br>
 [2.- Lists]()
 [3.- If Statements]()
 [4.- While Loops]()
