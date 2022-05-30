@@ -5,9 +5,8 @@ Collection of games created while studying python
 [1.- Guess Number](games/guess_number.py) <br>
 [2.- Madlibs](games/madlibs/) <br>
 [3.- Hangman](games/hangman/) <br>
-[4.- Rock Paper Scissors]() <br>
-[5.- Minesweeper]() <br>
-[6.- Tic Tac Toe]() <br>
-[7.- AI Tic Tac Toe]() <br>
-[8.- Connect Four]() <br>
-[9.- Sudoku]() <br>
+[4.- Rock Paper Scissors](games/rps.py) <br>
+[5.- Minesweeper](games/minesweeper.py) <br>
+[6.- Tic Tac Toe](games/tictactoe.py) <br>
+[7.- Connect Four]() <br>
+[8.- Sudoku]() <br>
