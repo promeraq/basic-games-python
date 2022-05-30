@@ -20,7 +20,7 @@ Collection of notes, games and programs created while studying python
 [1.- Guess Number]() <br>
 [2.- Madlibs]() <br>
 [3.- Hangman]() <br>
-[4.- Rock paper scissors]() <br>
+[4.- Rock Paper Scissors]() <br>
 [5.- Minesweeper]() <br>
 [6.- Tic Tac Toe]() <br>
 [7.- AI Tic Tac Toe]() <br>
