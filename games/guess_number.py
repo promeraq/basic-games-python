@@ -23,4 +23,5 @@ def main():
     while play == True:
         play = guess(number, user_num, max)
 
-main()
+if __name__="__main__":
+    main()
